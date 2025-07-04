@@ -6,7 +6,7 @@ This page describes how users of WaackTheWorld (developed by Provaldo) can reque
 
 To delete your account and all associated data, please send an email to:
 
-📧 **provaldo@gmail.com**
+📧 **provaldo.code@gmail.com**
 
 Please include the following:
 - Your registered email address
@@ -32,4 +32,4 @@ No data is retained in our structure.
 
 ## Contact
 
-If you have any questions, email us at [provaldo@gmail.com](mailto:provaldo@gmail.com).
+If you have any questions, email us at [provaldo.code@gmail.com](mailto:provaldo.code@gmail.com).
